@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "nombre": "iPhone 12 Pro",
+      "img": "./img/ip12pro.jpg",
+      "precio": 999
+    },
+    {
+      "id": 2,
+      "nombre": "iPhone 15 Pro",
+      "img": "./img/ip15pro.jpg",
+      "precio": 1199
+    },
+    {
+      "id": 3,
+      "nombre": "iPhone 11",
+      "img": "./img/iphone11.jpeg",
+      "precio": 699
+    },
+    {
+      "id": 4,
+      "nombre": "iPhone 12",
+      "img": "./img/iphone12.jpg",
+      "precio": 799
+    },
+    {
+      "id": 5,
+      "nombre": "Samsung Galaxy A11",
+      "img": "./img/samsungA11.jpeg",
+      "precio": 179
+    },
+    {
+        "id": 6,
+        "nombre": "Xiomi",
+        "img": "./img/xioami1.jpg",
+        "precio": 179
+      }
+  ]
+  
